@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emanuel Gaviria</h1>
 <h3 align="center">Frontend Developer | React | Next.js | TypeScript</h3>
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Mobile+Developer;React+%7C+Next.js+%7C+TypeScript;Always+learning+new+things&center=true&width=500&height=45">
-</p>
-
----
-
 ## 🚀 Tech Stack
 
 <p align="center">
@@ -19,8 +11,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
----
-
 ## 👨‍💻 About Me
 
 - 💻 Frontend developer
@@ -28,23 +18,19 @@
 - 🎯 Goal: Frontend Mobile Developer
 - ⚡ I like building web and mobile apps
 
----
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ema-cr&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ema-cr&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
----
 
 ## 🔥 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ema-cr&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ema-cr&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
-
----
 
 ## 🌎 Contact
 
