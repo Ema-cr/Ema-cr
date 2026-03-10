@@ -1,20 +1,59 @@
-<h1 align='center'> Hello, I am Emanuel Gaviria </h1>
-<p align='center'>
-  Front-End Developer 
+<h1 align="center">Hi 👋, I'm Emanuel Gaviria</h1>
+<h3 align="center">Frontend Developer | React | Next.js | TypeScript</h3>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Mobile+Developer;React+%7C+Next.js+%7C+TypeScript;Always+learning+new+things&center=true&width=500&height=45">
 </p>
 
-<h2> Skills </h2> 
+---
+
+## 🚀 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
+---
 
-<h2> Connect with me</h2>
-<a href = 'https://www.linkedin.com/in/emanuel-gaviria-aa6b96286/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-  
-<br>
-<br>
+## 👨‍💻 About Me
+
+- 💻 Frontend developer
+- 📱 Learning Mobile Development
+- 🎯 Goal: Frontend Mobile Developer
+- ⚡ I like building web and mobile apps
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ema-cr&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ema-cr&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🌎 Contact
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/emanuel-gaviria-aa6b96286/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="mailto:gaviriacardonaemanuel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
